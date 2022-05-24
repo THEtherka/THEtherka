@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @THEtherka
+- 🏫 I'm studying IT
+- 🌱 I’m currently learning Laravel
+- 📫 How to reach me: the.therka@gmail.com || 
